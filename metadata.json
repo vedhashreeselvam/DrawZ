@@ -1,0 +1,6 @@
+{
+  "name": "Creative Paint Studio",
+  "description": "A modern, professional drawing and painting studio featuring smooth brushes, customizable pens, shapes, color palettes, undo/redo, and high-quality image export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
